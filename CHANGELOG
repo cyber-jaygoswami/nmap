@@ -1,5 +1,6 @@
 #Nmap Changelog ($Id$); -*-text-*-
 
+I added some issues
 o Fixed an issue where TCP Connect scan (-sT) on Windows would fail to open any
   sockets, leading to scans that never finish. [Daniel Miller]
 
